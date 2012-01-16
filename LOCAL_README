@@ -5,4 +5,8 @@ Edit for merge
 Edited remotely for merge
 Tortoise Git Edit
 Edit to test Tortoise pull.
+<<<<<<< HEAD
 Text before Tortoise pull.
+=======
+Edit to test Tortoise merge.
+>>>>>>> 2979f7e2b03d3d5207dea847b30ef19941a5e869
