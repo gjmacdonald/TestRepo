@@ -1,10 +1,17 @@
-﻿Adding some text
+Adding some text
 for a feature branch merge
 and a bugfix change.
+Here's a bug fix
+on changelog which should
+conflict with the feature branch change.
 Merge1
 Merge2
 OpenVPN Change Log
 Copyright (C) 2002-2011 OpenVPN Technologies, Inc. <sales@openvpn.net>
+
+Bugfix changed needed
+here as well.
+
 
 2011.12.14 -- Version 2.2.2
 David Sommerseth (1):
