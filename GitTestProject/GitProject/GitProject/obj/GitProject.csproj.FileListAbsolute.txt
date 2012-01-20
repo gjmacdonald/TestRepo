@@ -1,0 +1,8 @@
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\bin\Debug\GitProject.exe
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\bin\Debug\GitProject.pdb
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\obj\Debug\GitProject.Form1.resources
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\obj\Debug\GitProject.Properties.Resources.resources
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\obj\Debug\GitProject.csproj.GenerateResource.Cache
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\obj\Debug\GitProject.exe
+C:\Documents and Settings\macdog01\githubextensions\TestRepo\GitTestProject\GitProject\GitProject\obj\Debug\GitProject.pdb
