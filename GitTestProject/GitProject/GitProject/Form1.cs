@@ -22,7 +22,7 @@ namespace GitProject
         {
             label1.Text = "Wahey!";
             label2.Text = "Double Wahey!";
-            label3.Text = "Updated by a n other";
+            label3.Text = "Text";
         }
     }
 }
