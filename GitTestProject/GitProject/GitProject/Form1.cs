@@ -14,11 +14,13 @@ namespace GitProject
         {
             InitializeComponent();
             label1.Text = "";
+            label2.Text = "";
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Wahey!";
+            label2.Text = "Double Wahey!";
         }
     }
 }
