@@ -13,7 +13,7 @@ namespace GitProject
         public Form1()
         {
             InitializeComponent();
-            label1.Text = "";
+            label1.Text = "default text";
             label2.Text = "";
             label3.Text = "";
         }
