@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Some News
 More News
 Resolved News
@@ -8,3 +9,10 @@ Fisheye News Update
 News update on developer
 Update for NSL-7
 Developer update for NSL-20
+=======
+News file on master
+News update on master
+NSL-7 update on master
+NSL-20 update on master
+Another update for NSL-20
+>>>>>>> master
